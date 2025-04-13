@@ -1,0 +1,15 @@
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Service\bin\Debug\net8.0\Souq.Service.deps.json
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Service\bin\Debug\net8.0\Souq.Service.dll
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Service\bin\Debug\net8.0\Souq.Service.pdb
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Service\bin\Debug\net8.0\Souq.Core.dll
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Service\bin\Debug\net8.0\Souq.Core.pdb
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Service\obj\Debug\net8.0\Souq.Service.csproj.AssemblyReference.cache
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Service\obj\Debug\net8.0\Souq.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Service\obj\Debug\net8.0\Souq.Service.AssemblyInfoInputs.cache
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Service\obj\Debug\net8.0\Souq.Service.AssemblyInfo.cs
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Service\obj\Debug\net8.0\Souq.Service.csproj.CoreCompileInputs.cache
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Service\obj\Debug\net8.0\Souq.Ser.68EDC63C.Up2Date
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Service\obj\Debug\net8.0\Souq.Service.dll
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Service\obj\Debug\net8.0\refint\Souq.Service.dll
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Service\obj\Debug\net8.0\Souq.Service.pdb
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Service\obj\Debug\net8.0\ref\Souq.Service.dll

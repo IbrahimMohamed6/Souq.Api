@@ -1,0 +1,12 @@
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\bin\Release\net8.0\Souq.Core.deps.json
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\bin\Release\net8.0\Souq.Core.dll
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\bin\Release\net8.0\Souq.Core.pdb
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\obj\Release\net8.0\Souq.Core.csproj.AssemblyReference.cache
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\obj\Release\net8.0\Souq.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\obj\Release\net8.0\Souq.Core.AssemblyInfoInputs.cache
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\obj\Release\net8.0\Souq.Core.AssemblyInfo.cs
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\obj\Release\net8.0\Souq.Core.csproj.CoreCompileInputs.cache
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\obj\Release\net8.0\Souq.Core.dll
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\obj\Release\net8.0\refint\Souq.Core.dll
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\obj\Release\net8.0\Souq.Core.pdb
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\obj\Release\net8.0\ref\Souq.Core.dll
