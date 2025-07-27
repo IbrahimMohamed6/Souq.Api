@@ -13,3 +13,4 @@ E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Infrastructure\obj\Debug\net8.0\So
 E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Infrastructure\obj\Debug\net8.0\refint\Souq.Infrastructure.dll
 E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Infrastructure\obj\Debug\net8.0\Souq.Infrastructure.pdb
 E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Infrastructure\obj\Debug\net8.0\ref\Souq.Infrastructure.dll
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Infrastructure\obj\Debug\net8.0\Souq.Infrastructure.sourcelink.json

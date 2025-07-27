@@ -3,60 +3,96 @@
   "WorkspaceRootPath": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|solutionrelative:souq.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.api\\dtos\\identity\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|solutionrelative:souq.api\\dtos\\identity\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|solutionrelative:souq.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5957C5D6-A4BA-4B56-B508-446828C8FF67}|Souq.Infrastructure\\Souq.Infrastructure.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5957C5D6-A4BA-4B56-B508-446828C8FF67}|Souq.Infrastructure\\Souq.Infrastructure.csproj|solutionrelative:souq.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|solutionrelative:souq.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FEA5354-6BE7-42EB-8439-D1EAC4FDB12A}|Souq.Service\\Souq.Service.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.service\\token\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FEA5354-6BE7-42EB-8439-D1EAC4FDB12A}|Souq.Service\\Souq.Service.csproj|solutionrelative:souq.service\\token\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3FEA5354-6BE7-42EB-8439-D1EAC4FDB12A}|Souq.Service\\Souq.Service.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FEA5354-6BE7-42EB-8439-D1EAC4FDB12A}|Souq.Service\\Souq.Service.csproj|solutionrelative:souq.service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|solutionrelative:souq.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.api\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|solutionrelative:souq.api\\controllers\\errorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|solutionrelative:souq.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|solutionrelative:souq.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|solutionrelative:souq.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9B084E51-DEA6-44AE-90DB-5ADB306CFF33}|Souq.Core\\Souq.Core.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.core\\entites\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B084E51-DEA6-44AE-90DB-5ADB306CFF33}|Souq.Core\\Souq.Core.csproj|solutionrelative:souq.core\\entites\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|solutionrelative:souq.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9B084E51-DEA6-44AE-90DB-5ADB306CFF33}|Souq.Core\\Souq.Core.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.core\\service.contarct\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B084E51-DEA6-44AE-90DB-5ADB306CFF33}|Souq.Core\\Souq.Core.csproj|solutionrelative:souq.core\\service.contarct\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B084E51-DEA6-44AE-90DB-5ADB306CFF33}|Souq.Core\\Souq.Core.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.core\\repositorycontract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B084E51-DEA6-44AE-90DB-5ADB306CFF33}|Souq.Core\\Souq.Core.csproj|solutionrelative:souq.core\\repositorycontract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B084E51-DEA6-44AE-90DB-5ADB306CFF33}|Souq.Core\\Souq.Core.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.core\\repositorycontract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B084E51-DEA6-44AE-90DB-5ADB306CFF33}|Souq.Core\\Souq.Core.csproj|solutionrelative:souq.core\\repositorycontract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B084E51-DEA6-44AE-90DB-5ADB306CFF33}|Souq.Core\\Souq.Core.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.core\\repositorycontract\\ibasketreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B084E51-DEA6-44AE-90DB-5ADB306CFF33}|Souq.Core\\Souq.Core.csproj|solutionrelative:souq.core\\repositorycontract\\ibasketreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B084E51-DEA6-44AE-90DB-5ADB306CFF33}|Souq.Core\\Souq.Core.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.core\\repositorycontract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B084E51-DEA6-44AE-90DB-5ADB306CFF33}|Souq.Core\\Souq.Core.csproj|solutionrelative:souq.core\\repositorycontract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEA5354-6BE7-42EB-8439-D1EAC4FDB12A}|Souq.Service\\Souq.Service.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEA5354-6BE7-42EB-8439-D1EAC4FDB12A}|Souq.Service\\Souq.Service.csproj|solutionrelative:souq.service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5957C5D6-A4BA-4B56-B508-446828C8FF67}|Souq.Infrastructure\\Souq.Infrastructure.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5957C5D6-A4BA-4B56-B508-446828C8FF67}|Souq.Infrastructure\\Souq.Infrastructure.csproj|solutionrelative:souq.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|solutionrelative:souq.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|solutionrelative:souq.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|solutionrelative:souq.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEA5354-6BE7-42EB-8439-D1EAC4FDB12A}|Souq.Service\\Souq.Service.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.service\\token\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEA5354-6BE7-42EB-8439-D1EAC4FDB12A}|Souq.Service\\Souq.Service.csproj|solutionrelative:souq.service\\token\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5957C5D6-A4BA-4B56-B508-446828C8FF67}|Souq.Infrastructure\\Souq.Infrastructure.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.infrastructure\\repository\\basketreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5957C5D6-A4BA-4B56-B508-446828C8FF67}|Souq.Infrastructure\\Souq.Infrastructure.csproj|solutionrelative:souq.infrastructure\\repository\\basketreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5957C5D6-A4BA-4B56-B508-446828C8FF67}|Souq.Infrastructure\\Souq.Infrastructure.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5957C5D6-A4BA-4B56-B508-446828C8FF67}|Souq.Infrastructure\\Souq.Infrastructure.csproj|solutionrelative:souq.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5957C5D6-A4BA-4B56-B508-446828C8FF67}|Souq.Infrastructure\\Souq.Infrastructure.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.infrastructure\\data\\dbcontexts\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5957C5D6-A4BA-4B56-B508-446828C8FF67}|Souq.Infrastructure\\Souq.Infrastructure.csproj|solutionrelative:souq.infrastructure\\data\\dbcontexts\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B084E51-DEA6-44AE-90DB-5ADB306CFF33}|Souq.Core\\Souq.Core.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.core\\service.contarct\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B084E51-DEA6-44AE-90DB-5ADB306CFF33}|Souq.Core\\Souq.Core.csproj|solutionrelative:souq.core\\service.contarct\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5957C5D6-A4BA-4B56-B508-446828C8FF67}|Souq.Infrastructure\\Souq.Infrastructure.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.infrastructure\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5957C5D6-A4BA-4B56-B508-446828C8FF67}|Souq.Infrastructure\\Souq.Infrastructure.csproj|solutionrelative:souq.infrastructure\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B9DF-C21A-4434-BD9C-BDAAE7F4AFFE}|DashBoard Admin\\DashBoard Admin.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\dashboard admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B9DF-C21A-4434-BD9C-BDAAE7F4AFFE}|DashBoard Admin\\DashBoard Admin.csproj|solutionrelative:dashboard admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\souq.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08426B4-0395-42DC-8853-1B23EB3EB135}|Souq.Api\\Souq.Api.csproj|solutionrelative:souq.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B9DF-C21A-4434-BD9C-BDAAE7F4AFFE}|DashBoard Admin\\DashBoard Admin.csproj|e:\\route\\wepapi\\project\\souq.apisolution\\dashboard admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C372B9DF-C21A-4434-BD9C-BDAAE7F4AFFE}|DashBoard Admin\\DashBoard Admin.csproj|solutionrelative:dashboard admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,172 +118,293 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Dtos\\Identity\\UserDto.cs",
-              "RelativeDocumentMoniker": "Souq.Api\\Dtos\\Identity\\UserDto.cs",
-              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Dtos\\Identity\\UserDto.cs",
-              "RelativeToolTip": "Souq.Api\\Dtos\\Identity\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Core\\Entites\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "Souq.Core\\Entites\\Identity\\AppUser.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Core\\Entites\\Identity\\AppUser.cs",
+              "RelativeToolTip": "Souq.Core\\Entites\\Identity\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:01:51.299Z"
+              "WhenOpened": "2025-07-26T16:51:54.003Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Genericrepository.cs",
-              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Infrastructure\\Repository\\Genericrepository.cs",
-              "RelativeDocumentMoniker": "Souq.Infrastructure\\Repository\\Genericrepository.cs",
-              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Infrastructure\\Repository\\Genericrepository.cs",
-              "RelativeToolTip": "Souq.Infrastructure\\Repository\\Genericrepository.cs",
-              "ViewState": "AgIAABIAAACAMTMzMzMLwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T22:35:05.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Service\\Token\\TokenService.cs",
-              "RelativeDocumentMoniker": "Souq.Service\\Token\\TokenService.cs",
-              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Service\\Token\\TokenService.cs",
-              "RelativeToolTip": "Souq.Service\\Token\\TokenService.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T00:45:30.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "OrderService.cs",
               "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Service\\OrderService.cs",
               "RelativeDocumentMoniker": "Souq.Service\\OrderService.cs",
               "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Service\\OrderService.cs",
               "RelativeToolTip": "Souq.Service\\OrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAADA/v///z8lwA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T00:45:29.461Z"
+              "WhenOpened": "2025-07-26T16:48:56.294Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ErrorsController.cs",
-              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\ErrorsController.cs",
-              "RelativeDocumentMoniker": "Souq.Api\\Controllers\\ErrorsController.cs",
-              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\ErrorsController.cs",
-              "RelativeToolTip": "Souq.Api\\Controllers\\ErrorsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T15:42:36.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseApiController.cs",
-              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\BaseApiController.cs",
-              "RelativeDocumentMoniker": "Souq.Api\\Controllers\\BaseApiController.cs",
-              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\BaseApiController.cs",
-              "RelativeToolTip": "Souq.Api\\Controllers\\BaseApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T15:42:20.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Souq.Api\\Controllers\\OrdersController.cs",
               "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "Souq.Api\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAABMAAACgZWZmZmYkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAYwFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T15:16:42.159Z"
+              "WhenOpened": "2025-07-26T16:47:20.839Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
+              "Title": "IBasketReposatory.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Core\\RepositoryContract\\IBasketReposatory.cs",
+              "RelativeDocumentMoniker": "Souq.Core\\RepositoryContract\\IBasketReposatory.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Core\\RepositoryContract\\IBasketReposatory.cs",
+              "RelativeToolTip": "Souq.Core\\RepositoryContract\\IBasketReposatory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:46:22.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Core\\RepositoryContract\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Souq.Core\\RepositoryContract\\IUnitOfWork.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Core\\RepositoryContract\\IUnitOfWork.cs",
+              "RelativeToolTip": "Souq.Core\\RepositoryContract\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:46:18.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Core\\RepositoryContract\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Souq.Core\\RepositoryContract\\IProductRepository.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Core\\RepositoryContract\\IProductRepository.cs",
+              "RelativeToolTip": "Souq.Core\\RepositoryContract\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:40:48.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProductController.cs",
               "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Souq.Api\\Controllers\\ProductController.cs",
               "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Souq.Api\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABcAAACgl5mZmdkhwCUAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAACwAAADADQAAAAAFwHAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T15:39:09.711Z"
+              "WhenOpened": "2025-05-27T00:13:38.137Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PaymentsController.cs",
-              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\PaymentsController.cs",
-              "RelativeDocumentMoniker": "Souq.Api\\Controllers\\PaymentsController.cs",
-              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\PaymentsController.cs",
-              "RelativeToolTip": "Souq.Api\\Controllers\\PaymentsController.cs",
-              "ViewState": "AgIAADQAAABwy8zMzMwnwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Core\\RepositoryContract\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Souq.Core\\RepositoryContract\\IGenericRepository.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Core\\RepositoryContract\\IGenericRepository.cs",
+              "RelativeToolTip": "Souq.Core\\RepositoryContract\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T00:19:06.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BasketReposatory.cs",
-              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Infrastructure\\Repository\\BasketReposatory.cs",
-              "RelativeDocumentMoniker": "Souq.Infrastructure\\Repository\\BasketReposatory.cs",
-              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Infrastructure\\Repository\\BasketReposatory.cs",
-              "RelativeToolTip": "Souq.Infrastructure\\Repository\\BasketReposatory.cs",
-              "ViewState": "AgIAABcAAAAAwMzMzMzkvyIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T23:57:49.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "Souq.Api\\Controllers\\BasketController.cs",
-              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "Souq.Api\\Controllers\\BasketController.cs",
-              "ViewState": "AgIAAB4AAAAwyszMzMwwwCIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T23:57:25.511Z"
+              "WhenOpened": "2025-05-27T00:09:37.508Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Souq.Api\\Program.cs",
-              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Program.cs",
-              "RelativeToolTip": "Souq.Api\\Program.cs",
-              "ViewState": "AgIAABkAAABAZmZmZuYcwGsAAAAMAAAAAAAAAA==",
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Core\\Service.Contarct\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Souq.Core\\Service.Contarct\\IOrderService.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Core\\Service.Contarct\\IOrderService.cs",
+              "RelativeToolTip": "Souq.Core\\Service.Contarct\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T13:05:32.461Z"
+              "WhenOpened": "2025-05-27T00:11:52.439Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "AccountController.cs",
               "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Souq.Api\\Controllers\\AccountController.cs",
               "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Souq.Api\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAHMAAACgMjMzM7MiwHoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAGcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T12:57:50.528Z"
+              "WhenOpened": "2025-05-27T00:27:45.57Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Souq.Api\\Controllers\\BasketController.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Souq.Api\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAABMAAACAMjMzM7MiwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:34:32.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Service\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Souq.Service\\PaymentService.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Service\\PaymentService.cs",
+              "RelativeToolTip": "Souq.Service\\PaymentService.cs",
+              "ViewState": "AgIAAAsAAAAgmpmZmZkuwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:12:01.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Souq.Infrastructure\\Repository\\ProductRepository.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Souq.Infrastructure\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAABcAAAAALDMzMzMLwCUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:11:08.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Infrastructure\\Data\\DbContexts\\StoreContext.cs",
+              "RelativeDocumentMoniker": "Souq.Infrastructure\\Data\\DbContexts\\StoreContext.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Infrastructure\\Data\\DbContexts\\StoreContext.cs",
+              "RelativeToolTip": "Souq.Infrastructure\\Data\\DbContexts\\StoreContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABqPRMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:16:47.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Souq.Api\\appsettings.json",
               "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\appsettings.json",
               "RelativeToolTip": "Souq.Api\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAMzMzMzMrwBgAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-26T22:59:14.191Z",
+              "WhenOpened": "2025-04-27T16:00:56.769Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BasketReposatory.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Infrastructure\\Repository\\BasketReposatory.cs",
+              "RelativeDocumentMoniker": "Souq.Infrastructure\\Repository\\BasketReposatory.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Infrastructure\\Repository\\BasketReposatory.cs",
+              "RelativeToolTip": "Souq.Infrastructure\\Repository\\BasketReposatory.cs",
+              "ViewState": "AgIAAC8AAAAAXGZmZmb0vzQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:17:47.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Genericrepository.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Infrastructure\\Repository\\Genericrepository.cs",
+              "RelativeDocumentMoniker": "Souq.Infrastructure\\Repository\\Genericrepository.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Infrastructure\\Repository\\Genericrepository.cs",
+              "RelativeToolTip": "Souq.Infrastructure\\Repository\\Genericrepository.cs",
+              "ViewState": "AgIAACQAAAAAYWZmZmYkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:10:09.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Service\\Token\\TokenService.cs",
+              "RelativeDocumentMoniker": "Souq.Service\\Token\\TokenService.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Service\\Token\\TokenService.cs",
+              "RelativeToolTip": "Souq.Service\\Token\\TokenService.cs",
+              "ViewState": "AgIAAAkAAACAAjMzMzP7vyMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:11:36.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Core\\Service.Contarct\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Souq.Core\\Service.Contarct\\ITokenService.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Core\\Service.Contarct\\ITokenService.cs",
+              "RelativeToolTip": "Souq.Core\\Service.Contarct\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:11:53.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Infrastructure\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Souq.Infrastructure\\Repository\\UnitOfWork.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Infrastructure\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Souq.Infrastructure\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAACQAAAAALjMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:11:24.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\DashBoard Admin\\Program.cs",
+              "RelativeDocumentMoniker": "DashBoard Admin\\Program.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\DashBoard Admin\\Program.cs",
+              "RelativeToolTip": "DashBoard Admin\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABmPRcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:20:53.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Souq.Api\\Program.cs",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\Souq.Api\\Program.cs",
+              "RelativeToolTip": "Souq.Api\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAWGZmZmb0v24AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:20:14.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\DashBoard Admin\\appsettings.json",
+              "RelativeDocumentMoniker": "DashBoard Admin\\appsettings.json",
+              "ToolTip": "E:\\Route\\WepApi\\Project\\Souq.ApiSolution\\DashBoard Admin\\appsettings.json",
+              "RelativeToolTip": "DashBoard Admin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T21:19:13.258Z"
             }
           ]
         }

@@ -18,10 +18,26 @@ namespace Souq.Infrastructure.Repository
         {
             _context = context;
         }
+
+       
+
         public async Task<IReadOnlyList<Product>> GetAllProductByBrand(string brandName)
          => await _context.Set<Product>().Where(p => p.Brand.Name == brandName).ToListAsync();
 
         public async Task<IReadOnlyList<Product>> GetAllProductByCategory(string categoryName)
          => await _context.Set<Product>().Where(p => p.Category.Name == categoryName).ToListAsync();
+
+
+        public Task<Product> AddProduct(Product product)
+        {
+            _context.Set<Product>().Add(product);
+            return Task.FromResult(product);
+        }
+        public Task<Product> UpdateProduct(Product product)
+        {
+            _context.Set<Product>().Update(product);
+            return Task.FromResult(product);
+
+        }
     }
 }

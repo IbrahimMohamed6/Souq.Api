@@ -1,0 +1,5 @@
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Api\obj\Debug\net8.0\staticwebassets.build.json

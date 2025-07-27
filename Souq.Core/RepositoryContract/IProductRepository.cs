@@ -11,6 +11,10 @@ namespace Souq.Core.RepositoryContract
     {
         public Task<IReadOnlyList<Product>> GetAllProductByBrand(string brandName);
         public Task<IReadOnlyList<Product>> GetAllProductByCategory(string categoryName);
+        // Add Product
+        public Task<Product> AddProduct(Product product);
+        // Update Product
+        public Task<Product> UpdateProduct(Product product);
 
     }
 }

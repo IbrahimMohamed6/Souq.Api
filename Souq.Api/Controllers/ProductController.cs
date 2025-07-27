@@ -1,5 +1,6 @@
 ﻿
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Souq.Api.Dtos;
 using Souq.Api.Helper.Errors;
@@ -31,6 +32,7 @@ namespace Souq.Api.Controllers
             _ctegoryRepo = ctegoryRepo;
             _productRepository = productRepository;
         }
+        // Get All Products With Pagination and Filter
         [HttpGet]
         public async Task<ActionResult<Pagination<ProductToReturnDto>>> Producs([FromQuery] ProductSpecParams spec)
         {
@@ -44,6 +46,7 @@ namespace Souq.Api.Controllers
 
 
         }
+        // Get Product By Id
 
         [HttpGet("{id}")]
         public async Task<ActionResult<ProductToReturnDto>> GetProdcts(int id)
@@ -56,7 +59,7 @@ namespace Souq.Api.Controllers
 
 
         }
-
+        // Get All Brands
         [HttpGet("Brands")]
         public async Task<ActionResult<IReadOnlyList<Brand>>> Brands()
         {
@@ -64,6 +67,7 @@ namespace Souq.Api.Controllers
             return Ok(Barnds);
 
         }
+        // Get All Category
 
         [HttpGet("Category")]
         public async Task<ActionResult<IReadOnlyList<Brand>>> Category()
@@ -72,6 +76,7 @@ namespace Souq.Api.Controllers
             return Ok(Ctegory);
 
         }
+        // Get Product By Category Name
 
         [HttpGet("Productcategory/{categoryName}")]
         public async Task<ActionResult<IReadOnlyList<Product>>> ProductByCategoryName(string categoryName)
@@ -82,7 +87,7 @@ namespace Souq.Api.Controllers
             return Ok(_mapper.Map<IReadOnlyList<Product>, IReadOnlyList<ProductWithBrandAndCategoryToReturnDto>>(Product));
 
         }
-
+        // Get Product By Brand Name
         [HttpGet("ProductBrand/{brandName}")]
         public async Task<ActionResult<IReadOnlyList<Product>>> ProductByBrandNameName(string brandName)
         {
@@ -93,6 +98,28 @@ namespace Souq.Api.Controllers
             return Ok(_mapper.Map<IReadOnlyList<Product>, IReadOnlyList<ProductWithBrandAndCategoryToReturnDto>>(Product));
         }
 
+        // Add Product
+        [Authorize("Admin")]
+        [HttpPost]
+        public async Task<ActionResult<ProductToReturnDto>> AddProduct(ProductToReturnDto productDto)
+        {
+            var Product = _mapper.Map<ProductToReturnDto, Product>(productDto);
+            var AddedProduct = await _productRepository.AddProduct(Product);
+            if (AddedProduct is null)
+                return BadRequest(new ApiResponse(400, "Product Not Added"));
+            return Ok(_mapper.Map<Product, ProductToReturnDto>(AddedProduct));
+        }
+        // Update Product
+        [Authorize("Admin")]
+        [HttpPut]
+        public async Task<ActionResult<ProductToReturnDto>> UpdateProduct(ProductToReturnDto productDto)
+        {
+            var Product = _mapper.Map<ProductToReturnDto, Product>(productDto);
+            var UpdatedProduct = await _productRepository.UpdateProduct(Product);
+            if (UpdatedProduct is null)
+                return BadRequest(new ApiResponse(400, "Product Not Updated"));
+            return Ok(_mapper.Map<Product, ProductToReturnDto>(UpdatedProduct));
+        }
     }
 
 }

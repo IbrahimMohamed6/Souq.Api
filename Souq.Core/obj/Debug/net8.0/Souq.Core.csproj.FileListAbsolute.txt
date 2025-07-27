@@ -10,3 +10,4 @@ E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\obj\Debug\net8.0\Souq.Core.dl
 E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\obj\Debug\net8.0\refint\Souq.Core.dll
 E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\obj\Debug\net8.0\Souq.Core.pdb
 E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\obj\Debug\net8.0\ref\Souq.Core.dll
+E:\Route\WepApi\Project\Souq.ApiSolution\Souq.Core\obj\Debug\net8.0\Souq.Core.sourcelink.json

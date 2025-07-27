@@ -20,7 +20,7 @@ namespace Souq.Api.Controllers
         private readonly IMapper _mapper;
 
         public OrdersController(IOrderService orderService
-            ,IUnitOfWork unitOfWork
+            , IUnitOfWork unitOfWork
             , IMapper mapper)
         {
             _orderService = orderService;
@@ -34,7 +34,7 @@ namespace Souq.Api.Controllers
         {
             var Email = User.FindFirstValue(ClaimTypes.Email);
             var MappedAddress = _mapper.Map<AddressIdentityDto, OrderAddress>(model.shipToAddress);
-            var Order = await _orderService.CrateOrderAsync(Email, model.basketId, model.DeliveryMethodId,MappedAddress);
+            var Order = await _orderService.CrateOrderAsync(Email, model.basketId, model.DeliveryMethodId, MappedAddress);
             if (Order is null)
                 return BadRequest(new ApiResponse(400, "Error While Crating Order"));
             return Ok(Order);
@@ -48,7 +48,7 @@ namespace Souq.Api.Controllers
             var Orders = await _orderService.GetOrderForSpecificUser(Email);
             if (Orders is null)
                 return NotFound(new ApiResponse(404, "Order Not Found"));
-           var MappedOrder = _mapper.Map<IReadOnlyList<Order>, IReadOnlyList<OrderTorReturnDto>>(Orders);
+            var MappedOrder = _mapper.Map<IReadOnlyList<Order>, IReadOnlyList<OrderTorReturnDto>>(Orders);
             return Ok(MappedOrder);
         }
         [HttpGet("{id}")]
@@ -70,5 +70,22 @@ namespace Souq.Api.Controllers
             return Ok(DeliveryMethods);
         }
 
+        // Update Order Status
+
+        [HttpPut]
+        [Authorize("Admin")]
+        public async Task<ActionResult<bool>> UpdateOrderStatus(int orderId, OrderStatus status)
+        {
+            var Order = await _unitOfWork.Repository<Order>().GetByIdAsync(orderId);
+            if (Order is null)
+                return NotFound(new ApiResponse(404, "Order Not Found"));
+            Order.Status = status;
+            _unitOfWork.Repository<Order>().Update(Order);
+            var Result = await _unitOfWork.SaveChangesAsyc();
+            if (Result <= 0)
+                return BadRequest(new ApiResponse(400, "Error While Updating Order Status"));
+            return Ok(true);
+        }
     }
+
 }

@@ -77,5 +77,12 @@ namespace Souq.Service
             var Orders = _unitOfWork.Repository<Order>().GetAllWithSpecAsync(Spec);
             return Orders;
         }
+
+        public Task<Order> UpdateOrderStatus(string paymentIntentId, bool flag)
+        {
+            return _paymentService.UpdateOrderStatus(paymentIntentId, flag);
+
+
+        }
     }
 }
